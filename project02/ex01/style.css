@@ -1,0 +1,11 @@
+.navegation{display: flex;justify-content: space-between;align-items: center;gap: 20px;}
+.navegation{position: fixed top 0;}
+.card_container{display:flex;justify-content:space-between;align-items:center;}
+.card-3{position:relative}
+.badge{position: absolute;top:0;right:0;}
+.badge{color: red;}
+.back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}

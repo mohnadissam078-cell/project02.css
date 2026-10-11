@@ -1,0 +1,58 @@
+/* diplay */
+.display-grid{
+    display: grid;
+    justify-content: center;
+}
+.flex_cards{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    justify-content:center;
+    width: 100%;
+    gap: 8px;
+}
+/* text */
+.text-center{
+    text-align: center;
+}
+
+/* box priaroties */
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:100px;
+    height: 100px;
+}
+.padding-16{
+    padding: 16px;
+}
+
+
+
+/* COLORS */
+.bg-red{
+    background-color: red;
+}
+
+.bg-green{
+    background-color: rgb(0,255,0);
+}
+
+.bg-blue{
+background-color: #0000ff;
+}
+.bg-green-05{
+    background-color: rgba(0,255,0,0.5);
+}
+.opa-red{
+    background-color: red;
+    opacity: 0.5;
+}
+.rba-red{
+    background-color: rgba(225,0, 0, 0.5);
+}
+.RGBA{
+    background-color: rgba(255, 0, 0, 0.5);
+}
